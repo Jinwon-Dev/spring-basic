@@ -3,7 +3,6 @@ package basic.springbasic.order;
 import basic.springbasic.discount.DiscountPolicy;
 import basic.springbasic.member.Member;
 import basic.springbasic.member.MemberRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
